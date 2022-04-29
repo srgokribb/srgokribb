@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srgokribb
 - 👀 I’m interested in computational protein design.
-- 🌱 I’m currently learning python, C programming to run Rosetta which is the tool to design and engineer functional protein.
+- 🌱 I’m currently learning python, C programming to run Rosetta which is the program to design and engineer functional protein.
 - 📫 How to reach me "srgo@kribb.re.kr".
 
 <!---
